@@ -1,0 +1,3 @@
+*.bin binary
+*.hex binary
+*.logs binary
